@@ -1,4 +1,4 @@
-# Test Case Daftar Akun Cermati with Cypress
+# Daftar Akun Cermati with Cypress
 
 ## How to Run
 
